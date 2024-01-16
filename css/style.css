@@ -9902,7 +9902,7 @@ h5,
 .ftco-navbar-light {
   background: rgba(255, 255, 255, 0.2) !important;
   position: absolute;
-  top: 28px;
+  top: 0;
   left: 0;
   right: 0;
   z-index: 3;
@@ -10286,9 +10286,9 @@ h5,
   color: #fff;
 }
 .btn.btn-primary:hover {
-  border: 1px solid #f3e53d;
+  border: 1px solid #2b98f0;
   background: transparent;
-  color: #f3e53d;
+  color: #2b98f0;
 }
 .btn.btn-primary.btn-outline-primary {
   border: 1px solid #2b98f0;

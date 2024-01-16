@@ -111,7 +111,7 @@ h5,
   background: rgba(255, 255, 255, 0.2) !important;
   // background: rgba(243,229,61,.5)!important;
   position: absolute;
-  top: 28px;
+  top: 0;
   left: 0;
   right: 0;
   z-index: 3;
@@ -497,9 +497,9 @@ h5,
     border: 1px solid $primary;
     color: $white;
     &:hover {
-      border: 1px solid $secondary;
+      border: 1px solid $primary;
       background: transparent;
-      color: $secondary;
+      color: $primary;
     }
     &.btn-outline-primary {
       border: 1px solid $primary;
